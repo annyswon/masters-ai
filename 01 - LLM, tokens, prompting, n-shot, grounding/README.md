@@ -14,7 +14,7 @@ The course begins with a comprehensive overview of AI and progresses through ess
 5. **AI Ethics and Security in Enterprises**
 6. **Capstone Project**
 
-![Course Roadmap](/mnt/data/A_visually_appealing_roadmap_depicting_stages_of_a.png)
+![Course Roadmap](https://github.com/annyswon/masters-ai/blob/main/01%20-%20LLM%2C%20tokens%2C%20prompting%2C%20n-shot%2C%20grounding/Generative%20AI%20task%201/DALL%C2%B7E%202025-02-01%2018.40.30%20-%20A%20visually%20appealing%20roadmap%20depicting%20stages%20of%20an%20AI%20course.%20The%20roadmap%20includes%20clearly%20labeled%20stages%20such%20as%20'AI%20and%20Machine%20Learning%20Overview%2C'.webp)
 
 ---
 
