@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e1c96854-9e6a-487f-997b-943d5a3f1c43)![image](https://github.com/user-attachments/assets/89a85a28-ab34-4027-80ea-1d3f0e13b6b8)[Link to dataset](https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows?resource=download)
+[Link to dataset](https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows?resource=download)
 
 Analyze attached csv file, based on it make a chart of count of title per time range of title, make about 7 different time ranges in chart
 
