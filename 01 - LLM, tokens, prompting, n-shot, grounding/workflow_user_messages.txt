@@ -1,0 +1,11 @@
+
+User Messages in This Chat
+
+1. Write a blogpost with illustrations about the attached transcription. Include pictures in the post. Store it in README.md file.
+2. Generate the illustrations for all proposed illustrations above and include the picture name exactly as it was above in the transcript.
+3. Prepare a readme file ready to upload to the git.
+4. Store it in README.md file.
+5. Save prompts used and the completions in text file workflow.txt.
+6. No, use my prompts in the history.
+7. Create a file with the prompts were mention in this chat.
+8. Save my messages to you in this chat in text file workflow.txt.
